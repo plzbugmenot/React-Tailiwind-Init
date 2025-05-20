@@ -14,6 +14,8 @@ A modern, responsive dashboard template built with React and Tailwind CSS. This 
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/b36ee3b1-03ff-4d6b-95f7-8dd493b2c40f)
+![image](https://github.com/user-attachments/assets/6bb9d4de-da8f-490c-9665-5926fe76cfe0)
 
 
 ## Getting Started
